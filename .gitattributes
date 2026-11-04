@@ -1,0 +1,8 @@
+# 统一使用 LF，避免 shell 脚本在 Linux/CI 上因 CRLF 执行失败
+* text=auto eol=lf
+
+# 二进制文件不做换行转换
+*.so binary
+*.zip binary
+*.png binary
+*.jpg binary
