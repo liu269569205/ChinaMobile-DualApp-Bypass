@@ -7,6 +7,9 @@
 pkg/
 build/
 
+# 本地辅助脚本
+push.sh
+
 # 编辑器
 .vscode/
 .idea/
