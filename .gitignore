@@ -1,0 +1,14 @@
+# 构建产物
+*.so
+*.o
+*.zip
+
+# 打包中间目录
+pkg/
+build/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store

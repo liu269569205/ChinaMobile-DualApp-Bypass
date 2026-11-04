@@ -1,0 +1,6 @@
+id=mchook
+name=MCHook (中国移动环境检测绕过)
+version=v1.0
+versionCode=1
+author=lj
+description=将壳 SecNeo 的 native 检测 com.secneo.apkwrapper.H.gha("appmo") 强制返回 0，使中国移动在双开空间(XSpace/999)内通过"应用多开"检测。不加载任何 Xposed 类，规避壳的注入检测。
