@@ -1,4 +1,4 @@
-# MCHook
+# MCHook · 中国移动双开屏蔽
 
 一个 Zygisk 模块：让 **中国移动**（`com.greenpoint.android.mc10086.activity`）在 **XSpace 双开空间（user 999）** 里正常启动，不再被壳的「应用多开提醒」弹窗 + 3 秒退出拦下。
 
